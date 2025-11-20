@@ -47,13 +47,8 @@ export default function CountdownSection() {
     <section className="py-20 sm:py-24 px-8 sm:px-6 lg:px-8 bg-white">
       <div className="max-w-8xl mx-auto">
         <h2 className="font-be-vietnam text-center text-3xl sm:text-4xl font-bold bg-gradient-to-r from-blue-800 via-purple-700 to-pink-700 bg-clip-text text-transparent mb-8 lg:text-5xl leading-tight">
-          Khóa học sẽ bắt đầu
+          Chương trình sẽ bắt đầu sau
         </h2>
-
-        <p className="relative z-0 text-center text-blue-600 mb-8 font-semibold text-2xl">
-          Hãy chuẩn bị sẵn sàng cho trải nghiệm AI đáng nhớ
-        </p>
-
         <div className="flex justify-center gap-4 sm:gap-6 lg:gap-8 flex-wrap">
           <CountdownBox value={timeLeft.days} label="Ngày" />
           <CountdownBox value={timeLeft.hours} label="Giờ" />
