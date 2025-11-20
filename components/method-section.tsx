@@ -25,7 +25,7 @@ export default function MethodSection() {
       image: "/images/hinh_4.png",
     },
     {
-      title: "PROJECT-BASED LEARNING WORKSHOP (Làm thật - Ra kết quả thật)",
+      title: "PROJECT-BASED LEARNING WORKSHOP (THỰC HIỆN DỰ ÁN CÙNG ĐỘI NGŨ)",
       image: "/images/hinh_5.png",
     },
   ];
