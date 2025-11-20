@@ -9,14 +9,11 @@ export default function ProblemSection() {
     <section className="py-20 px-4 sm:px-6 lg:px-8 bg-white">
       <div className="max-w-4xl mx-auto">
         <h2 class="text-4xl font-extrabold text-center mb-12 text-blue-900">
-          Doanh nghiệp bạn đang thực sự
-          <!-- --> 
+          Doanh nghiệp bạn đang thực sự {" "}
           <span class="bg-gradient-to-r from-blue-700 via-purple-600 to-pink-600 bg-clip-text text-transparent">
             'Làm chủ AI'
-          </span> 
-          <!-- -->
-            hay chỉ đang
-          <!-- --> 
+          </span>{" "}
+            hay chỉ đang {" "}
             <span class="bg-gradient-to-r from-blue-700 via-purple-600 to-pink-600 bg-clip-text text-transparent">
               'Chạy theo phong trào'?
             </span>
