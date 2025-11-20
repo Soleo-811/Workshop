@@ -30,7 +30,7 @@ return (
         
         {/* ⭐️ TIÊU ĐỀ CHO CAROUSEL LOGO */}
         <h3 className="text-center text-xl sm:text-2xl font-bold mb-6 text-white">
-          ĐỐI TÁC & KHÁCH HÀNG ĐÃ ĐỒNG HÀNH
+          ĐỐI TÁC & KHÁCH HÀNG ĐÃ ĐỒNG HÀNH CÙNG AICI
         </h3>
 
         {/* Row 1: Logo images scrolling right to left */}
@@ -55,7 +55,7 @@ return (
 
         {/* ⭐️ TIÊU ĐỀ CHO CAROUSEL CLASSROOM */}
         <h3 className="text-center text-xl sm:text-2xl font-bold mb-6 text-white">
-          HÌNH ẢNH LỚP HỌC & WORKSHOP THỰC TẾ
+          HOẠT ĐỘNG TRAINING, COACHING & WORKSHOP
         </h3>
 
         {/* Row 2: Classroom images scrolling left to right */}
