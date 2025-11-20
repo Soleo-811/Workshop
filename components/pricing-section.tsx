@@ -67,7 +67,7 @@ export default function PricingSection() {
             <tbody className="bg-slate-900/50 divide-y divide-purple-700/30">
               {/* Feature rows */}
               <tr className="hover:bg-slate-800/50 transition">
-                <td className="px-6 py-4 text-left font-semibold">2 ngày huấn luyện tư duy & Công cụ</td>
+                <td className="px-6 py-4 text-left font-semibold">2 Ngày huấn luyện Tư duy & Công cụ AI Thực Chiến</td>
                 <td className="px-6 py-4 text-center text-white">
                   <Check className="w-6 h-6 text-white mx-auto" strokeWidth={3} />
                 </td>
@@ -77,7 +77,7 @@ export default function PricingSection() {
               </tr>
 
               <tr className="hover:bg-slate-800/50 transition">
-                <td className="px-6 py-4 text-left font-semibold">Bộ hướng dẫn & Webinar hàng tháng</td>
+                <td className="px-6 py-4 text-left font-semibold">Bộ Hớng Dẫn Công cụ & Webinar hàng tháng (update 3 tháng)</td>
                 <td className="px-6 py-4 text-center text-white">
                   <Check className="w-6 h-6 text-white mx-auto" strokeWidth={3} />
                 </td>
@@ -87,7 +87,7 @@ export default function PricingSection() {
               </tr>
 
               <tr className="hover:bg-slate-800/50 transition">
-                <td className="px-6 py-4 text-left font-semibold">Bộ test năng lực AI cho toàn bộ nhân sự</td>
+                <td className="px-6 py-4 text-left font-semibold">Bộ test năng lực AI cho toàn bộ nhân sự sau Chương trình</td>
                 <td className="px-6 py-4 text-center text-white">
                   
                 </td>
@@ -97,7 +97,7 @@ export default function PricingSection() {
               </tr>
 
               <tr className="hover:bg-slate-800/50 transition">
-                <td className="px-6 py-4 text-left font-semibold">Tham gia workshop thực chiến</td>
+                <td className="px-6 py-4 text-left font-semibold">Tham gia Workshop Thực chiến Ngày 3 - kèm bởi Experts</td>
                 <td className="px-6 py-4 text-center text-white">
                   
                 </td>
@@ -128,18 +128,18 @@ export default function PricingSection() {
 
               {/* Pricing rows */}
               <tr className="bg-slate-800/50 font-black text-lg">
-                <td className="px-6 py-5 text-left">MỨC ĐẦU TƯ (DN 2 NGƯỜI)</td>
-                <td className="px-6 py-5 text-center text-blue-300">20.000.000đ</td>
+                <td className="px-6 py-5 text-left">ĐĂNG KÝ NHÓM DOANH NGHIỆP (CEO + NHÂN SỰ)</td>
+                <td className="px-6 py-5 text-center text-blue-300">7.000.000đ</td>
                 <td className="px-6 py-5 text-center  text-pink-300">
-                  24.000.000đ
+                  4.200.000đ
                 </td>
               </tr>
 
               <tr className="bg-slate-800/20 font-bold text-2xl">
-                <td className="px-6 py-5 text-left">Giá Early Bird (Trước 21.11)</td>
-                <td className="px-6 py-5 text-center text-blue-600">14.000.000đ</td>
+                <td className="px-6 py-5 text-left">Đăng ký sớm trước 30.11</td>
+                <td className="px-6 py-5 text-center text-blue-600">8.000.000đ</td>
                 <td className="px-6 py-5 text-center text-pink-600">
-                  16.000.000đ
+                  4.800.000đ
                 </td>
               </tr>
             </tbody>
@@ -154,12 +154,14 @@ export default function PricingSection() {
           </p>
         </div>
 
-        <div className="bg-gradient-to-r from-cyan-500/20 to-pink-500/20 border border-cyan-400/30 rounded-2xl p-8 mb-6 text-center">
-          <p className="text-xl text-cyan-200 font-semibold mb-6">
+        <div class="bg-gradient-to-r from-cyan-500/20 to-pink-500/20 border border-cyan-400/30 rounded-2xl p-8 mb-6 text-center" bis_skin_checked="1">
+          <p class="text-xl text-cyan-200 font-semibold mb-6">
             Tối ưu ngân sách cho doanh nghiệp – chỉ từ 1.600.000đ / nhân sự / ngày
           </p>
-          <p className="text-lg text-gray-300 font-semibold mb-2">
-            <span className="text-yellow-300 font-black">⚡ Giới hạn 20 Doanh nghiệp – 50 học viên</span>
+          <p class="text-lg text-gray-300 font-semibold mb-2">
+            <span class="text-yellow-300 font-black">⚡ 
+              Giới hạn 20 Doanh nghiệp – 50 học viên
+            </span>
           </p>
         </div>
 
