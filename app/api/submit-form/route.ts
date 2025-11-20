@@ -8,7 +8,7 @@ export async function POST(req: Request) {
     
     // Destructuring đúng theo tên biến trong state formData của file cta-section.tsx
     // Lưu ý: 'package' là từ khóa nên ta đặt alias là packageOption cho an toàn
-    const { name, phone, company, email, package: packageOption, quantity } = body;
+    const { name, phone, company, email, referrerCode,package: packageOption, quantity } = body;
 
     // 2. Cấu hình xác thực Google (Service Account)
     const auth = new google.auth.GoogleAuth({
@@ -38,9 +38,10 @@ export async function POST(req: Request) {
       phone,          // Col C
       company,        // Col D
       email,          // Col E
-      packageOption,  // Col F
-      quantity,       // Col G (Frontend gọi là quantity, Sheet gọi là Amount)
-      'Waiting'           // Col H (Mặc định trạng thái mới)
+      referrerCode,   // Col F (Mã giới thiệu)
+      packageOption,  // Col G
+      quantity,       // Col H (Frontend gọi là quantity, Sheet gọi là Amount)
+      'Waiting'           // Col I (Mặc định trạng thái mới)
     ];
 
     // 4. Gọi Google API để append dữ liệu
