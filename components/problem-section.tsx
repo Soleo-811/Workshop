@@ -8,17 +8,16 @@ export default function ProblemSection() {
   return (
     <section className="py-20 px-4 sm:px-6 lg:px-8 bg-white">
       <div className="max-w-4xl mx-auto">
-        <h2 className="text-4xl font-extrabold text-center mb-12 text-blue-900">
-          Nhiều doanh nghiệp nghĩ mình đang {" "}
-          <span className="bg-gradient-to-r from-blue-700 via-purple-600 to-pink-600 bg-clip-text text-transparent">
-            'thực thi AI'
-          </span>{" "}
-          nhưng thực chất chỉ là {" "}
-          <span className="bg-gradient-to-r from-blue-700 via-purple-600 to-pink-600 bg-clip-text text-transparent">
-            'FOMO' <br/> 
-          </span>
-          Dấu hiệu của sự 'vỡ mộng' đó là:
-        </h2>
+        <h2 class="text-4xl font-extrabold text-center mb-12 text-blue-900">
+          Doanh nghiệp bạn đang thực sự<!-- --> 
+            <span class="bg-gradient-to-r from-blue-700 via-purple-600 to-pink-600 bg-clip-text text-transparent">
+              'Làm chủ AI'
+            </span> 
+            <!-- -->hay chỉ đang<!-- --> 
+              <span class="bg-gradient-to-r from-blue-700 via-purple-600 to-pink-600 bg-clip-text text-transparent">
+                'Chạy theo phong trào'?
+              </span>
+            </h2>
 
         <div className="bg-gray-50 p-8 rounded-2xl shadow-lg space-y-5">
           {problems.map((problem, idx) => (
