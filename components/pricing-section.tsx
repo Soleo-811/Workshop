@@ -35,7 +35,7 @@ export default function PricingSection() {
     <section id="pricing" className="py-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-3xl sm:text-4xl lg:text-6xl font-extrabold text-center mb-6 leading-tight text-white [text-shadow:_0_0_50px_#00E5FF,0_0_15px_#0033AA]">
-          MỨC ĐẦU TƯ
+          THAM GIA
         </h2>
 
         {/* Subtitle with gradient text */}
@@ -48,7 +48,7 @@ export default function PricingSection() {
             <thead>
               <tr>
                 <th className="px-6 py-6 text-center text-4xl font-black border-b-2 border-cyan-400/50">
-                  TÍNH NĂNG
+                  Nội dung chi tiết
                 </th>
                 <th className="px-6 py-6 text-center text-lg font-black text-white border-b-2 border-gray-400">
                   GÓI "TƯ DUY"
