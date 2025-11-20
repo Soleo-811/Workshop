@@ -144,14 +144,6 @@ export default function PricingSection() {
               </tr>
             </tbody>
           </table>
-          <p className="text-base text-white text-center py-4">
-            <span className="font-semibold bg-red-700 bg-clip-text text-transparent">
-              Lưu ý:
-            </span>{" "}
-            Đăng ký +1 học viên thêm: <span className="font-medium">+3.5tr (gói 2 ngày)</span> /{" "}
-            <span className="font-medium">+4tr (gói 3 ngày)</span>. Combo{" "}
-            <span className="font-medium">&gt;8 người</span>: Giảm thêm 10%.
-          </p>
         </div>
 
         <div class="bg-gradient-to-r from-cyan-500/20 to-pink-500/20 border border-cyan-400/30 rounded-2xl p-8 mb-6 text-center" bis_skin_checked="1">
