@@ -129,15 +129,15 @@ export default function PricingSection() {
               {/* Pricing rows */}
               <tr className="bg-slate-800/50 font-black text-lg">
                 <td className="px-6 py-5 text-left">ĐĂNG KÝ NHÓM DOANH NGHIỆP (CEO + NHÂN SỰ)</td>
-                <td className="px-6 py-5 text-center text-blue-300">7.000.000đ</td>
-                <td className="px-6 py-5 text-center  text-pink-300">
-                  4.200.000đ
+                <td className="px-6 py-5 text-center text-blue-300 line-through">7.000.000đ</td>
+                <td className="px-6 py-5 text-center  text-pink-300 line-through">
+                  8.000.000đ
                 </td>
               </tr>
 
               <tr className="bg-slate-800/20 font-bold text-2xl">
                 <td className="px-6 py-5 text-left">Đăng ký sớm trước 30.11</td>
-                <td className="px-6 py-5 text-center text-blue-600">8.000.000đ</td>
+                <td className="px-6 py-5 text-center text-blue-600">4.200.000đ</td>
                 <td className="px-6 py-5 text-center text-pink-600">
                   4.800.000đ
                 </td>
