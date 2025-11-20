@@ -32,7 +32,7 @@ export default function ExpertsSection() {
       <div className="max-w-7xl mx-auto">
         <h2 className="text-4xl font-extrabold text-center mb-12 text-gray-900">
           <span className="bg-gradient-to-r from-blue-700 via-purple-600 to-pink-600 bg-clip-text text-transparent">
-            Trainer - Expert 
+            Trainer - Expert đồng hành xuyên suốt
           </span>
         </h2>
 
