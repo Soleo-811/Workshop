@@ -5,12 +5,12 @@ export default function FAQSection() {
       a: "AICI khẳng định chương trình Bootcamp X10 AI Thực Chiến được thiết kế đặc biệt dành riêng cho CEO và Leader, tập trung vào Tư duy Chiến lược & Ứng dụng, hoàn toàn không yêu cầu code hay các kỹ thuật cao cấp. Đặc biệt trong Ngày 3, đội ngũ Kỹ thuật AI của AICI sẽ trực tiếp hỗ trợ để đảm bảo người học xây dựng bản demo thành công.",
     },
     {
-      q: "Tôi nên đi một mình hay đi cùng team?",
-      a: 'Để tối ưu hiệu quả, AICI khuyến khích bạn tham dự cùng 1-2 nhân sự lõi (Key Persons). Đây là yếu tố then chốt để lãnh đạo và team nhanh chóng đạt được "ngôn ngữ chung", giúp việc triển khai sau này đồng bộ và hiệu quả hơn.',
-    },
-    {
       q: "Sự khác biệt của họat động 3 ngày và 2 ngày là gì?",
       a: 'Sự khác biệt cốt lõi của Hoạt động 3 ngày chính là Ngày 3 – ngày Workshop Coaching bởi chuyên gia và  "Làm Thật - Kết quả thật.". Đây là lúc người học sẽ được coaching 1:1 để giải quyết "bài toán riêng" của doanh nghiệp, và ra về với một sản phẩm "demo chạy được" cụ thể, kèm theo Kế hoạch 90 ngày chi tiết có tính thực thi cao.',
+    },
+    {
+      q: "Tôi nên đi một mình hay đi cùng team?",
+      a: 'Để tối ưu hiệu quả, AICI khuyến khích bạn tham dự cùng 1-2 nhân sự lõi (Key Persons). Đây là yếu tố then chốt để lãnh đạo và team nhanh chóng đạt được "ngôn ngữ chung", giúp việc triển khai sau này đồng bộ và hiệu quả hơn.',
     },
     {
       q: "Tại sao nên cần 3 ngày tập trung cao độ?",
