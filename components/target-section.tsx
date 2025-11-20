@@ -18,7 +18,7 @@ export default function TargetSection() {
     <section className="relative py-20 text-white">
       <div className="max-w-6xl mx-auto px-6">
         <h2 className="text-center text-4xl md:text-5xl font-extrabold mb-16">
-          Khóa học này là dành cho ai?
+         Khuyến cáo! DOANH NGHIỆP NÊN THAM GIA CHƯƠNG TRÌNH NÀY?
         </h2>
 
         <div className="grid md:grid-cols-2 gap-4 px-0">
