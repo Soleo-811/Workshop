@@ -65,8 +65,8 @@ export default function HeroSection() {
             <span className="text-red-400 text-2xl mt-1">📍</span>
             <div className="flex flex-col leading-tight">
               <span>
-                Tầng 80 Landmark 81 <br />
-                TP. Hồ Chí Minh
+                92 Yên Thế <br />
+                Tân Bình, Hồ Chí Minh
               </span>
             </div>
           </div>
