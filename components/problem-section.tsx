@@ -3,7 +3,6 @@ export default function ProblemSection() {
     "Đã chi tiền cho công cụ AI liên tục, nhưng nhân sự không thực sự dùng hiệu quả và nhìn thấy được khác biệt rõ ràng?",
     "Đội ngũ Leader team loay hoay không biết bắt đầu 'AI-hóa' từ dự án nào, việc nào, phòng ban nào?",
     "Quan sát thấy đối thủ đã vận dụng và đang dần dẫn đầu, liệu mình đang chậm chân và bị bỏ lại?",
-    "Đội ngũ lõi và toàn bộ nhân sự thiếu tư duy AI-First, một cách nào đó vẫn 'cũ' đi ?",
   ]
 
   return (
