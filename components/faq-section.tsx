@@ -36,7 +36,7 @@ export default function FAQSection() {
               className="p-6 bg-gray-50 rounded-xl shadow-md border-l-4 border-blue-900/50 hover:shadow-lg transition-shadow"
             >
               <h3 className="font-bold text-lg text-blue-800 mb-3">Q: {faq.q}</h3>
-              <p className="text-blue-500 leading-relaxed">A: {faq.a}</p>
+              <p className="text-blue-500 leading-relaxed text-justify">A: {faq.a}</p>
             </div>
           ))}
         </div>
