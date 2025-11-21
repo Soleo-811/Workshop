@@ -489,7 +489,7 @@ export default function CTASection() {
               disabled={isSubmitting}
               className="w-full bg-gradient-to-r from-blue-700 via-purple-600 to-pink-600 hover:from-blue-600 hover:via-purple-500 hover:to-pink-500 text-white font-black py-5 px-8 rounded-2xl text-xl uppercase tracking-wider mt-8 transform hover:-translate-y-1 transition-all shadow-lg hover:shadow-2xl hover:shadow-purple-600/50 disabled:opacity-50 disabled:cursor-not-allowed"
             >
-              {isSubmitting ? "ĐANG GỬI..." : "ĐĂNG KÝ GIỮ CHỖ NGAY"}
+              {isSubmitting ? "ĐANG GỬI..." : "ĐĂNG KÝ NGAY"}
             </Button>
           </form>
         ) : (
