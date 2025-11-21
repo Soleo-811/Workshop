@@ -77,7 +77,7 @@ export default function PricingSection() {
               </tr>
 
               <tr className="hover:bg-slate-800/50 transition">
-                <td className="px-6 py-4 text-left font-semibold">Bộ Hớng Dẫn Công cụ & Webinar hàng tháng (update 3 tháng)</td>
+                <td className="px-6 py-4 text-left font-semibold">Bộ hướng dẫn công cụ & Webinar hàng tháng (update 3 tháng)</td>
                 <td className="px-6 py-4 text-center text-white">
                   <Check className="w-6 h-6 text-white mx-auto" strokeWidth={3} />
                 </td>
